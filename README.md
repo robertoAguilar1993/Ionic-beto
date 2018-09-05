@@ -8,7 +8,7 @@ git clone https://github.com/robertoAguilar1993/Ionic-beto.git
 
 Entrar a la carpeta.
 ```
-cd Ionic-beTO
+cd Ionic-beto
 ```
 
 instalar
